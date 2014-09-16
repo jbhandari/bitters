@@ -4,11 +4,15 @@
 
 ***
 
-## Scaffold styles, variables and structure for [Bourbon](http://bourbon.io) projects.
+## Scaffold styles, variables and structure for [Bourbon](https://github.com/thoughtbot/bourbon) projects.
 
 Bitters helps designers start projects faster by defining a basic set of Sass variables, default element style and project structure. It’s been specifically designed for use within web applications. Bitters should live in your project’s root Sass directory and we *encourage* you to modify and extend it to meet your design and brand requirements.
 
 Bitters is made to work alongside a CSS reset and not replace it. Our suggested reset is [Normalize](http://necolas.github.io/normalize.css).
+
+- [Demo](http://bitters.bourbon.io)
+- [Changelog](https://github.com/thoughtbot/bitters/releases)
+- [Suggest features or file bugs](https://github.com/thoughtbot/bitters/issues)
 
 ## Requirements
 
@@ -102,10 +106,10 @@ Used for any error, warning or success messages in applications or forms. Specif
 
 ## The Bourbon family
 
-- [Bourbon](http://bourbon.io): A simple and lightweight mixin library for Sass
-- [Neat](http://neat.bourbon.io): A lightweight semantic grid framework for Sass and Bourbon
-- [Bitters](http://bitters.bourbon.io): Scaffold styles, variables and structure for Bourbon projects
-- [Refills](http://refills.bourbon.io): Prepackaged patterns and components, built on top of Bourbon, Bitters & Neat
+- [Bourbon](https://github.com/thoughtbot/bourbon): A simple and lightweight mixin library for Sass
+- [Neat](https://github.com/thoughtbot/neat): A lightweight semantic grid framework for Sass and Bourbon
+- [Bitters](https://github.com/thoughtbot/bitters): Scaffold styles, variables and structure for Bourbon projects
+- [Refills](https://github.com/thoughtbot/refills): Prepackaged patterns and components built with Bourbon, Neat and Bitters
 
 ## Credits
 
