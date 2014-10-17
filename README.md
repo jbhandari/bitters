@@ -1,4 +1,4 @@
-# Bitters
+[![Bitters](http://images.thoughtbot.com/bourbon/bitters-logo.svg)](http://bitters.bourbon.io)
 
 [![Gem Version](http://img.shields.io/gem/v/bitters.svg?style=flat)](https://rubygems.org/gems/bitters)
 
